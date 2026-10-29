@@ -1,0 +1,9032 @@
+[
+  {
+    "view": {
+      "observer": 0,
+      "own_role": 1,
+      "inspection": [
+        5,
+        false
+      ],
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "0",
+      "125/576",
+      "67/192",
+      "125/576",
+      "125/576",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 0,
+      "own_role": 1,
+      "inspection": [
+        5,
+        false
+      ],
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "0",
+      "1/4",
+      "1/4",
+      "1/4",
+      "1/4",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 0,
+      "own_role": 1,
+      "inspection": [
+        5,
+        false
+      ],
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 3,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "0",
+      "125/424",
+      "49/424",
+      "125/424",
+      "125/424",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 0,
+      "own_role": 1,
+      "inspection": [
+        5,
+        false
+      ],
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "0",
+      "125/424",
+      "49/424",
+      "125/424",
+      "125/424",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 0,
+      "own_role": 1,
+      "inspection": [
+        5,
+        false
+      ],
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 3,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "0",
+      "125/424",
+      "125/424",
+      "49/424",
+      "125/424",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 0,
+      "own_role": 1,
+      "inspection": [
+        5,
+        false
+      ],
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": true
+        }
+      ]
+    },
+    "probabilities": [
+      "0",
+      "125/576",
+      "67/192",
+      "125/576",
+      "125/576",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 0,
+      "own_role": 1,
+      "inspection": [
+        5,
+        false
+      ],
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": true
+        }
+      ]
+    },
+    "probabilities": [
+      "0",
+      "125/576",
+      "67/192",
+      "125/576",
+      "125/576",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 0,
+      "own_role": 1,
+      "inspection": [
+        5,
+        false
+      ],
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 3,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 3,
+          "wolf_claim": false,
+          "relay": true
+        }
+      ]
+    },
+    "probabilities": [
+      "0",
+      "125/424",
+      "49/424",
+      "125/424",
+      "125/424",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 0,
+      "own_role": 1,
+      "inspection": [
+        5,
+        false
+      ],
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": true,
+          "relay": true
+        }
+      ]
+    },
+    "probabilities": [
+      "0",
+      "125/424",
+      "49/424",
+      "125/424",
+      "125/424",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 0,
+      "own_role": 1,
+      "inspection": [
+        5,
+        false
+      ],
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 3,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r0",
+          "author": 3,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": true
+        }
+      ]
+    },
+    "probabilities": [
+      "0",
+      "125/424",
+      "125/424",
+      "49/424",
+      "125/424",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 0,
+      "own_role": 1,
+      "inspection": [
+        5,
+        false
+      ],
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "0",
+      "15625/87276",
+      "13467/29092",
+      "15625/87276",
+      "15625/87276",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 0,
+      "own_role": 1,
+      "inspection": [
+        5,
+        false
+      ],
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "0",
+      "125/576",
+      "67/192",
+      "125/576",
+      "125/576",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 0,
+      "own_role": 1,
+      "inspection": [
+        5,
+        false
+      ],
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 3,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "0",
+      "15625/56724",
+      "3283/18908",
+      "15625/56724",
+      "15625/56724",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 0,
+      "own_role": 1,
+      "inspection": [
+        5,
+        false
+      ],
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "0",
+      "15625/56724",
+      "3283/18908",
+      "15625/56724",
+      "15625/56724",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 0,
+      "own_role": 1,
+      "inspection": [
+        5,
+        false
+      ],
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 3,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "0",
+      "1/4",
+      "201/500",
+      "49/500",
+      "1/4",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 0,
+      "own_role": 1,
+      "inspection": [
+        5,
+        false
+      ],
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "0",
+      "15625/56724",
+      "3283/18908",
+      "15625/56724",
+      "15625/56724",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 0,
+      "own_role": 1,
+      "inspection": [
+        5,
+        false
+      ],
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "0",
+      "125/424",
+      "49/424",
+      "125/424",
+      "125/424",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 0,
+      "own_role": 1,
+      "inspection": [
+        5,
+        false
+      ],
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 3,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "0",
+      "15625/49276",
+      "2401/49276",
+      "15625/49276",
+      "15625/49276",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 0,
+      "own_role": 1,
+      "inspection": [
+        5,
+        false
+      ],
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "0",
+      "15625/49276",
+      "2401/49276",
+      "15625/49276",
+      "15625/49276",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 0,
+      "own_role": 1,
+      "inspection": [
+        5,
+        false
+      ],
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 3,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "0",
+      "125/348",
+      "49/348",
+      "49/348",
+      "125/348",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 0,
+      "own_role": 1,
+      "inspection": [
+        5,
+        false
+      ],
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "0",
+      "125/576",
+      "67/192",
+      "125/576",
+      "125/576",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 0,
+      "own_role": 1,
+      "inspection": [
+        5,
+        false
+      ],
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 0,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "0",
+      "125/576",
+      "67/192",
+      "125/576",
+      "125/576",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 0,
+      "own_role": 1,
+      "inspection": [
+        5,
+        false
+      ],
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "0",
+      "125/576",
+      "67/192",
+      "125/576",
+      "125/576",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 0,
+      "own_role": 1,
+      "inspection": [
+        5,
+        false
+      ],
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 1,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "0",
+      "49/500",
+      "201/500",
+      "1/4",
+      "1/4",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 0,
+      "own_role": 1,
+      "inspection": [
+        5,
+        false
+      ],
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": true
+        }
+      ]
+    },
+    "probabilities": [
+      "0",
+      "125/576",
+      "67/192",
+      "125/576",
+      "125/576",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 0,
+      "own_role": 1,
+      "inspection": [
+        5,
+        false
+      ],
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": true
+        }
+      ]
+    },
+    "probabilities": [
+      "0",
+      "125/576",
+      "67/192",
+      "125/576",
+      "125/576",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 0,
+      "own_role": 1,
+      "inspection": [
+        5,
+        false
+      ],
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 0,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 0,
+          "wolf_claim": false,
+          "relay": true
+        }
+      ]
+    },
+    "probabilities": [
+      "0",
+      "125/576",
+      "67/192",
+      "125/576",
+      "125/576",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 0,
+      "own_role": 1,
+      "inspection": [
+        5,
+        false
+      ],
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": true,
+          "relay": true
+        }
+      ]
+    },
+    "probabilities": [
+      "0",
+      "125/576",
+      "67/192",
+      "125/576",
+      "125/576",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 0,
+      "own_role": 1,
+      "inspection": [
+        5,
+        false
+      ],
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 1,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 1,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": true
+        }
+      ]
+    },
+    "probabilities": [
+      "0",
+      "49/500",
+      "201/500",
+      "1/4",
+      "1/4",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 0,
+      "own_role": 1,
+      "inspection": [
+        5,
+        false
+      ],
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "0",
+      "125/576",
+      "67/192",
+      "125/576",
+      "125/576",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 0,
+      "own_role": 1,
+      "inspection": [
+        5,
+        false
+      ],
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "0",
+      "125/576",
+      "67/192",
+      "125/576",
+      "125/576",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 0,
+      "own_role": 1,
+      "inspection": [
+        5,
+        false
+      ],
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 0,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "0",
+      "125/576",
+      "67/192",
+      "125/576",
+      "125/576",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 0,
+      "own_role": 1,
+      "inspection": [
+        5,
+        false
+      ],
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "independent_r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "0",
+      "125/576",
+      "67/192",
+      "125/576",
+      "125/576",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 0,
+      "own_role": 1,
+      "inspection": [
+        5,
+        false
+      ],
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 1,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "0",
+      "49/500",
+      "201/500",
+      "1/4",
+      "1/4",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 0,
+      "own_role": 1,
+      "inspection": [
+        5,
+        false
+      ],
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "0",
+      "125/576",
+      "67/192",
+      "125/576",
+      "125/576",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 0,
+      "own_role": 1,
+      "inspection": [
+        5,
+        false
+      ],
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "0",
+      "125/576",
+      "67/192",
+      "125/576",
+      "125/576",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 0,
+      "own_role": 1,
+      "inspection": [
+        5,
+        false
+      ],
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 0,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "0",
+      "125/576",
+      "67/192",
+      "125/576",
+      "125/576",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 0,
+      "own_role": 1,
+      "inspection": [
+        5,
+        false
+      ],
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "independent_r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "0",
+      "125/576",
+      "67/192",
+      "125/576",
+      "125/576",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 0,
+      "own_role": 1,
+      "inspection": [
+        5,
+        false
+      ],
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 1,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "0",
+      "49/500",
+      "201/500",
+      "1/4",
+      "1/4",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 1,
+      "own_role": 4,
+      "inspection": null,
+      "peer": null,
+      "audit": {
+        "r0": 2
+      },
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "294/3935",
+      "0",
+      "1296/3935",
+      "169/787",
+      "169/787",
+      "131/787"
+    ]
+  },
+  {
+    "view": {
+      "observer": 1,
+      "own_role": 4,
+      "inspection": null,
+      "peer": null,
+      "audit": {
+        "r0": 2
+      },
+      "reports": [
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "49/587",
+      "0",
+      "144/587",
+      "144/587",
+      "144/587",
+      "106/587"
+    ]
+  },
+  {
+    "view": {
+      "observer": 1,
+      "own_role": 4,
+      "inspection": null,
+      "peer": null,
+      "audit": {
+        "r0": 2
+      },
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 3,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "294/2533",
+      "0",
+      "144/2533",
+      "35/149",
+      "845/2533",
+      "655/2533"
+    ]
+  },
+  {
+    "view": {
+      "observer": 1,
+      "own_role": 4,
+      "inspection": null,
+      "peer": null,
+      "audit": {
+        "r0": 2
+      },
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "196/1935",
+      "0",
+      "16/215",
+      "119/387",
+      "119/387",
+      "9/43"
+    ]
+  },
+  {
+    "view": {
+      "observer": 1,
+      "own_role": 4,
+      "inspection": null,
+      "peer": null,
+      "audit": {
+        "r0": 2
+      },
+      "reports": [
+        {
+          "root": "r0",
+          "author": 3,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "294/3935",
+      "0",
+      "1296/3935",
+      "169/787",
+      "169/787",
+      "131/787"
+    ]
+  },
+  {
+    "view": {
+      "observer": 1,
+      "own_role": 4,
+      "inspection": null,
+      "peer": null,
+      "audit": {
+        "r0": 2
+      },
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": true
+        }
+      ]
+    },
+    "probabilities": [
+      "294/3935",
+      "0",
+      "1296/3935",
+      "169/787",
+      "169/787",
+      "131/787"
+    ]
+  },
+  {
+    "view": {
+      "observer": 1,
+      "own_role": 4,
+      "inspection": null,
+      "peer": null,
+      "audit": {
+        "r0": 2
+      },
+      "reports": [
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": true
+        }
+      ]
+    },
+    "probabilities": [
+      "294/3935",
+      "0",
+      "1296/3935",
+      "169/787",
+      "169/787",
+      "131/787"
+    ]
+  },
+  {
+    "view": {
+      "observer": 1,
+      "own_role": 4,
+      "inspection": null,
+      "peer": null,
+      "audit": {
+        "r0": 2
+      },
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 3,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 3,
+          "wolf_claim": false,
+          "relay": true
+        }
+      ]
+    },
+    "probabilities": [
+      "294/2533",
+      "0",
+      "144/2533",
+      "35/149",
+      "845/2533",
+      "655/2533"
+    ]
+  },
+  {
+    "view": {
+      "observer": 1,
+      "own_role": 4,
+      "inspection": null,
+      "peer": null,
+      "audit": {
+        "r0": 2
+      },
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": true,
+          "relay": true
+        }
+      ]
+    },
+    "probabilities": [
+      "196/1935",
+      "0",
+      "16/215",
+      "119/387",
+      "119/387",
+      "9/43"
+    ]
+  },
+  {
+    "view": {
+      "observer": 1,
+      "own_role": 4,
+      "inspection": null,
+      "peer": null,
+      "audit": {
+        "r0": 2
+      },
+      "reports": [
+        {
+          "root": "r0",
+          "author": 3,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r0",
+          "author": 3,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": true
+        }
+      ]
+    },
+    "probabilities": [
+      "294/3935",
+      "0",
+      "1296/3935",
+      "169/787",
+      "169/787",
+      "131/787"
+    ]
+  },
+  {
+    "view": {
+      "observer": 1,
+      "own_role": 4,
+      "inspection": null,
+      "peer": null,
+      "audit": {
+        "r0": 2
+      },
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "45129/662875",
+      "0",
+      "260496/662875",
+      "1016/5303",
+      "1016/5303",
+      "826/5303"
+    ]
+  },
+  {
+    "view": {
+      "observer": 1,
+      "own_role": 4,
+      "inspection": null,
+      "peer": null,
+      "audit": {
+        "r0": 2
+      },
+      "reports": [
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "7056/92375",
+      "0",
+      "28944/92375",
+      "163/739",
+      "163/739",
+      "125/739"
+    ]
+  },
+  {
+    "view": {
+      "observer": 1,
+      "own_role": 4,
+      "inspection": null,
+      "peer": null,
+      "audit": {
+        "r0": 2
+      },
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 3,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "921/7777",
+      "0",
+      "28944/381073",
+      "76750/381073",
+      "127000/381073",
+      "14750/54439"
+    ]
+  },
+  {
+    "view": {
+      "observer": 1,
+      "own_role": 4,
+      "inspection": null,
+      "peer": null,
+      "audit": {
+        "r0": 2
+      },
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "25431/260875",
+      "0",
+      "28944/260875",
+      "614/2087",
+      "614/2087",
+      "424/2087"
+    ]
+  },
+  {
+    "view": {
+      "observer": 1,
+      "own_role": 4,
+      "inspection": null,
+      "peer": null,
+      "audit": {
+        "r0": 2
+      },
+      "reports": [
+        {
+          "root": "r0",
+          "author": 3,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "45129/662875",
+      "0",
+      "260496/662875",
+      "1016/5303",
+      "1016/5303",
+      "826/5303"
+    ]
+  },
+  {
+    "view": {
+      "observer": 1,
+      "own_role": 4,
+      "inspection": null,
+      "peer": null,
+      "audit": {
+        "r0": 2
+      },
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "28371/320875",
+      "0",
+      "63504/320875",
+      "674/2567",
+      "674/2567",
+      "484/2567"
+    ]
+  },
+  {
+    "view": {
+      "observer": 1,
+      "own_role": 4,
+      "inspection": null,
+      "peer": null,
+      "audit": {
+        "r0": 2
+      },
+      "reports": [
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "5194/54375",
+      "0",
+      "2352/18125",
+      "25/87",
+      "25/87",
+      "1/5"
+    ]
+  },
+  {
+    "view": {
+      "observer": 1,
+      "own_role": 4,
+      "inspection": null,
+      "peer": null,
+      "audit": {
+        "r0": 2
+      },
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 3,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "9457/84059",
+      "0",
+      "2352/84059",
+      "24000/84059",
+      "84250/252177",
+      "60500/252177"
+    ]
+  },
+  {
+    "view": {
+      "observer": 1,
+      "own_role": 4,
+      "inspection": null,
+      "peer": null,
+      "audit": {
+        "r0": 2
+      },
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "23569/222875",
+      "0",
+      "7056/222875",
+      "576/1783",
+      "576/1783",
+      "386/1783"
+    ]
+  },
+  {
+    "view": {
+      "observer": 1,
+      "own_role": 4,
+      "inspection": null,
+      "peer": null,
+      "audit": {
+        "r0": 2
+      },
+      "reports": [
+        {
+          "root": "r0",
+          "author": 3,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "28371/320875",
+      "0",
+      "63504/320875",
+      "674/2567",
+      "674/2567",
+      "484/2567"
+    ]
+  },
+  {
+    "view": {
+      "observer": 1,
+      "own_role": 4,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "7056/92375",
+      "0",
+      "28944/92375",
+      "163/739",
+      "163/739",
+      "125/739"
+    ]
+  },
+  {
+    "view": {
+      "observer": 1,
+      "own_role": 4,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "49/587",
+      "0",
+      "144/587",
+      "144/587",
+      "144/587",
+      "106/587"
+    ]
+  },
+  {
+    "view": {
+      "observer": 1,
+      "own_role": 4,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 3,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "1008/9391",
+      "0",
+      "1008/9391",
+      "15625/65737",
+      "20375/65737",
+      "15625/65737"
+    ]
+  },
+  {
+    "view": {
+      "observer": 1,
+      "own_role": 4,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "5194/54375",
+      "0",
+      "2352/18125",
+      "25/87",
+      "25/87",
+      "1/5"
+    ]
+  },
+  {
+    "view": {
+      "observer": 1,
+      "own_role": 4,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 3,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "1008/9391",
+      "0",
+      "15625/65737",
+      "1008/9391",
+      "20375/65737",
+      "15625/65737"
+    ]
+  },
+  {
+    "view": {
+      "observer": 1,
+      "own_role": 4,
+      "inspection": null,
+      "peer": null,
+      "audit": {
+        "r0": 2
+      },
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "2/11",
+      "0",
+      "3/11",
+      "2/11",
+      "2/11",
+      "2/11"
+    ]
+  },
+  {
+    "view": {
+      "observer": 1,
+      "own_role": 4,
+      "inspection": null,
+      "peer": null,
+      "audit": {
+        "r0": 2
+      },
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 0,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "402/1679",
+      "0",
+      "432/1679",
+      "845/5037",
+      "845/5037",
+      "845/5037"
+    ]
+  },
+  {
+    "view": {
+      "observer": 1,
+      "own_role": 4,
+      "inspection": null,
+      "peer": null,
+      "audit": {
+        "r0": 2
+      },
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "1206/4315",
+      "0",
+      "954/4315",
+      "131/863",
+      "131/863",
+      "169/863"
+    ]
+  },
+  {
+    "view": {
+      "observer": 1,
+      "own_role": 4,
+      "inspection": null,
+      "peer": null,
+      "audit": {
+        "r0": 2
+      },
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 1,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "2/11",
+      "0",
+      "3/11",
+      "2/11",
+      "2/11",
+      "2/11"
+    ]
+  },
+  {
+    "view": {
+      "observer": 1,
+      "own_role": 4,
+      "inspection": null,
+      "peer": null,
+      "audit": {
+        "r0": 2
+      },
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": true
+        }
+      ]
+    },
+    "probabilities": [
+      "294/3935",
+      "0",
+      "1296/3935",
+      "169/787",
+      "169/787",
+      "131/787"
+    ]
+  },
+  {
+    "view": {
+      "observer": 1,
+      "own_role": 4,
+      "inspection": null,
+      "peer": null,
+      "audit": {
+        "r0": 2
+      },
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": true
+        }
+      ]
+    },
+    "probabilities": [
+      "294/3935",
+      "0",
+      "1296/3935",
+      "169/787",
+      "169/787",
+      "131/787"
+    ]
+  },
+  {
+    "view": {
+      "observer": 1,
+      "own_role": 4,
+      "inspection": null,
+      "peer": null,
+      "audit": {
+        "r0": 2
+      },
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 0,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 0,
+          "wolf_claim": false,
+          "relay": true
+        }
+      ]
+    },
+    "probabilities": [
+      "402/1679",
+      "0",
+      "432/1679",
+      "845/5037",
+      "845/5037",
+      "845/5037"
+    ]
+  },
+  {
+    "view": {
+      "observer": 1,
+      "own_role": 4,
+      "inspection": null,
+      "peer": null,
+      "audit": {
+        "r0": 2
+      },
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": true,
+          "relay": true
+        }
+      ]
+    },
+    "probabilities": [
+      "1206/4315",
+      "0",
+      "954/4315",
+      "131/863",
+      "131/863",
+      "169/863"
+    ]
+  },
+  {
+    "view": {
+      "observer": 1,
+      "own_role": 4,
+      "inspection": null,
+      "peer": null,
+      "audit": {
+        "r0": 2
+      },
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 1,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 1,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": true
+        }
+      ]
+    },
+    "probabilities": [
+      "2/11",
+      "0",
+      "3/11",
+      "2/11",
+      "2/11",
+      "2/11"
+    ]
+  },
+  {
+    "view": {
+      "observer": 1,
+      "own_role": 4,
+      "inspection": null,
+      "peer": null,
+      "audit": {
+        "r0": 2
+      },
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "14406/537437",
+      "0",
+      "196371/537437",
+      "124720/537437",
+      "124720/537437",
+      "77220/537437"
+    ]
+  },
+  {
+    "view": {
+      "observer": 1,
+      "own_role": 4,
+      "inspection": null,
+      "peer": null,
+      "audit": {
+        "r0": 2
+      },
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "294/3935",
+      "0",
+      "1296/3935",
+      "169/787",
+      "169/787",
+      "131/787"
+    ]
+  },
+  {
+    "view": {
+      "observer": 1,
+      "own_role": 4,
+      "inspection": null,
+      "peer": null,
+      "audit": {
+        "r0": 2
+      },
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 0,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "6566/65715",
+      "0",
+      "7273/21905",
+      "24944/118287",
+      "24944/118287",
+      "17306/118287"
+    ]
+  },
+  {
+    "view": {
+      "observer": 1,
+      "own_role": 4,
+      "inspection": null,
+      "peer": null,
+      "audit": {
+        "r0": 2
+      },
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "independent_r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "2814/21253",
+      "0",
+      "42543/148771",
+      "86530/446313",
+      "86530/446313",
+      "86530/446313"
+    ]
+  },
+  {
+    "view": {
+      "observer": 1,
+      "own_role": 4,
+      "inspection": null,
+      "peer": null,
+      "audit": {
+        "r0": 2
+      },
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 1,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "294/3935",
+      "0",
+      "1296/3935",
+      "169/787",
+      "169/787",
+      "131/787"
+    ]
+  },
+  {
+    "view": {
+      "observer": 1,
+      "own_role": 4,
+      "inspection": null,
+      "peer": null,
+      "audit": {
+        "r0": 2
+      },
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "2814/21253",
+      "0",
+      "42543/148771",
+      "86530/446313",
+      "86530/446313",
+      "86530/446313"
+    ]
+  },
+  {
+    "view": {
+      "observer": 1,
+      "own_role": 4,
+      "inspection": null,
+      "peer": null,
+      "audit": {
+        "r0": 2
+      },
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "1206/4315",
+      "0",
+      "954/4315",
+      "131/863",
+      "131/863",
+      "169/863"
+    ]
+  },
+  {
+    "view": {
+      "observer": 1,
+      "own_role": 4,
+      "inspection": null,
+      "peer": null,
+      "audit": {
+        "r0": 2
+      },
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 0,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "80802/222605",
+      "0",
+      "42543/222605",
+      "17306/133563",
+      "17306/133563",
+      "24944/133563"
+    ]
+  },
+  {
+    "view": {
+      "observer": 1,
+      "own_role": 4,
+      "inspection": null,
+      "peer": null,
+      "audit": {
+        "r0": 2
+      },
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "independent_r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "242406/632437",
+      "0",
+      "110871/632437",
+      "5940/48649",
+      "5940/48649",
+      "124720/632437"
+    ]
+  },
+  {
+    "view": {
+      "observer": 1,
+      "own_role": 4,
+      "inspection": null,
+      "peer": null,
+      "audit": {
+        "r0": 2
+      },
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 1,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "1206/4315",
+      "0",
+      "954/4315",
+      "131/863",
+      "131/863",
+      "169/863"
+    ]
+  },
+  {
+    "view": {
+      "observer": 3,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 5,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "22099/244500",
+      "527/1956",
+      "30217/81500",
+      "0",
+      "527/1956",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 3,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 5,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "49/500",
+      "451/1500",
+      "451/1500",
+      "0",
+      "451/1500",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 3,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 5,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 3,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "22099/175948",
+      "65875/175948",
+      "22099/175948",
+      "0",
+      "65875/175948",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 3,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 5,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "14651/130500",
+      "125/348",
+      "22099/130500",
+      "0",
+      "125/348",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 3,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 5,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 3,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "49/500",
+      "451/1500",
+      "451/1500",
+      "0",
+      "451/1500",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 3,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 5,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": true
+        }
+      ]
+    },
+    "probabilities": [
+      "22099/244500",
+      "527/1956",
+      "30217/81500",
+      "0",
+      "527/1956",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 3,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 5,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": true
+        }
+      ]
+    },
+    "probabilities": [
+      "22099/244500",
+      "527/1956",
+      "30217/81500",
+      "0",
+      "527/1956",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 3,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 5,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 3,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 3,
+          "wolf_claim": false,
+          "relay": true
+        }
+      ]
+    },
+    "probabilities": [
+      "22099/175948",
+      "65875/175948",
+      "22099/175948",
+      "0",
+      "65875/175948",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 3,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 5,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": true,
+          "relay": true
+        }
+      ]
+    },
+    "probabilities": [
+      "14651/130500",
+      "125/348",
+      "22099/130500",
+      "0",
+      "125/348",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 3,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 5,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 3,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r0",
+          "author": 3,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": true
+        }
+      ]
+    },
+    "probabilities": [
+      "49/500",
+      "451/1500",
+      "451/1500",
+      "0",
+      "451/1500",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 3,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 5,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "3510899/42019500",
+      "81151/336156",
+      "6073617/14006500",
+      "0",
+      "81151/336156",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 3,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 5,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "22099/244500",
+      "527/1956",
+      "30217/81500",
+      "0",
+      "527/1956",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 3,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 5,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 3,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "501557/4034364",
+      "125/348",
+      "211519/1344788",
+      "0",
+      "125/348",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 3,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 5,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "2013851/19105500",
+      "50599/152844",
+      "1480633/6368500",
+      "0",
+      "50599/152844",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 3,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 5,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 3,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "22099/244500",
+      "527/1956",
+      "30217/81500",
+      "0",
+      "527/1956",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 3,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 5,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "2013851/19105500",
+      "50599/152844",
+      "1480633/6368500",
+      "0",
+      "50599/152844",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 3,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 5,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "14651/130500",
+      "125/348",
+      "22099/130500",
+      "0",
+      "125/348",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 3,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 5,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 3,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "2013851/15746452",
+      "6324875/15746452",
+      "1082851/15746452",
+      "0",
+      "6324875/15746452",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 3,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 5,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "549633/4506500",
+      "43151/108156",
+      "1082851/13519500",
+      "0",
+      "43151/108156",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 3,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 5,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 3,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "14651/130500",
+      "125/348",
+      "22099/130500",
+      "0",
+      "125/348",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 3,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 5,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "451/1956",
+      "451/1956",
+      "201/652",
+      "0",
+      "451/1956",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 3,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 5,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 0,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "90651/313052",
+      "65875/313052",
+      "90651/313052",
+      "0",
+      "65875/313052",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 3,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 5,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "30217/81500",
+      "125/652",
+      "20033/81500",
+      "0",
+      "125/652",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 3,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 5,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 1,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "527/1956",
+      "22099/244500",
+      "30217/81500",
+      "0",
+      "527/1956",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 3,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 5,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": true
+        }
+      ]
+    },
+    "probabilities": [
+      "22099/244500",
+      "527/1956",
+      "30217/81500",
+      "0",
+      "527/1956",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 3,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 5,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": true
+        }
+      ]
+    },
+    "probabilities": [
+      "22099/244500",
+      "527/1956",
+      "30217/81500",
+      "0",
+      "527/1956",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 3,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 5,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 0,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 0,
+          "wolf_claim": false,
+          "relay": true
+        }
+      ]
+    },
+    "probabilities": [
+      "90651/313052",
+      "65875/313052",
+      "90651/313052",
+      "0",
+      "65875/313052",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 3,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 5,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": true,
+          "relay": true
+        }
+      ]
+    },
+    "probabilities": [
+      "30217/81500",
+      "125/652",
+      "20033/81500",
+      "0",
+      "125/652",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 3,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 5,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 1,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 1,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": true
+        }
+      ]
+    },
+    "probabilities": [
+      "527/1956",
+      "22099/244500",
+      "30217/81500",
+      "0",
+      "527/1956",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 3,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 5,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "1082851/35772452",
+      "10143875/35772452",
+      "14401851/35772452",
+      "0",
+      "10143875/35772452",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 3,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 5,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "22099/244500",
+      "527/1956",
+      "30217/81500",
+      "0",
+      "527/1956",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 3,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 5,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 0,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "4441899/39131500",
+      "81151/313052",
+      "14401851/39131500",
+      "0",
+      "81151/313052",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 3,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 5,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "independent_r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "4441899/25352548",
+      "6324875/25352548",
+      "8260899/25352548",
+      "0",
+      "6324875/25352548",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 3,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 5,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 1,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "25823/232948",
+      "25823/232948",
+      "105927/232948",
+      "0",
+      "75375/232948",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 3,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 5,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "4441899/25352548",
+      "6324875/25352548",
+      "8260899/25352548",
+      "0",
+      "6324875/25352548",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 3,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 5,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "30217/81500",
+      "125/652",
+      "20033/81500",
+      "0",
+      "125/652",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 3,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 5,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 0,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "18220851/39131500",
+      "50599/313052",
+      "8260899/39131500",
+      "0",
+      "50599/313052",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 3,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 5,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "independent_r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "18220851/35772452",
+      "5393875/35772452",
+      "6763851/35772452",
+      "0",
+      "5393875/35772452",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 3,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 5,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 1,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "105927/256052",
+      "18375/256052",
+      "75375/256052",
+      "0",
+      "56375/256052",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 4,
+      "own_role": 3,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r2",
+          "author": 2,
+          "target": 1,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": true
+        }
+      ]
+    },
+    "probabilities": [
+      "694869/13082113",
+      "3024250/13082113",
+      "5817744/13082113",
+      "2069500/13082113",
+      "0",
+      "1475750/13082113"
+    ]
+  },
+  {
+    "view": {
+      "observer": 4,
+      "own_role": 3,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r2",
+          "author": 2,
+          "target": 1,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "5194/81013",
+      "20375/81013",
+      "28944/81013",
+      "15625/81013",
+      "0",
+      "10875/81013"
+    ]
+  },
+  {
+    "view": {
+      "observer": 4,
+      "own_role": 3,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 3,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r2",
+          "author": 2,
+          "target": 1,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 3,
+          "wolf_claim": false,
+          "relay": true
+        }
+      ]
+    },
+    "probabilities": [
+      "1141/13875",
+      "24194/67599",
+      "22512/134125",
+      "4898/22533",
+      "0",
+      "11806/67599"
+    ]
+  },
+  {
+    "view": {
+      "observer": 4,
+      "own_role": 3,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r2",
+          "author": 2,
+          "target": 1,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": true,
+          "relay": true
+        }
+      ]
+    },
+    "probabilities": [
+      "603631/7171137",
+      "2069500/7171137",
+      "157584/796793",
+      "19750/77109",
+      "0",
+      "1243000/7171137"
+    ]
+  },
+  {
+    "view": {
+      "observer": 4,
+      "own_role": 3,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 3,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r2",
+          "author": 2,
+          "target": 1,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "r0",
+          "author": 3,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": true
+        }
+      ]
+    },
+    "probabilities": [
+      "49/587",
+      "182/587",
+      "201/587",
+      "49/587",
+      "0",
+      "106/587"
+    ]
+  },
+  {
+    "view": {
+      "observer": 4,
+      "own_role": 3,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r2",
+          "author": 2,
+          "target": 1,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "694869/13082113",
+      "3024250/13082113",
+      "5817744/13082113",
+      "2069500/13082113",
+      "0",
+      "1475750/13082113"
+    ]
+  },
+  {
+    "view": {
+      "observer": 4,
+      "own_role": 3,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 3,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r2",
+          "author": 2,
+          "target": 1,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "1141/13875",
+      "24194/67599",
+      "22512/134125",
+      "4898/22533",
+      "0",
+      "11806/67599"
+    ]
+  },
+  {
+    "view": {
+      "observer": 4,
+      "own_role": 3,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r2",
+          "author": 2,
+          "target": 1,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "603631/7171137",
+      "2069500/7171137",
+      "157584/796793",
+      "19750/77109",
+      "0",
+      "1243000/7171137"
+    ]
+  },
+  {
+    "view": {
+      "observer": 4,
+      "own_role": 3,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 3,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r2",
+          "author": 2,
+          "target": 1,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "49/587",
+      "182/587",
+      "201/587",
+      "49/587",
+      "0",
+      "106/587"
+    ]
+  },
+  {
+    "view": {
+      "observer": 4,
+      "own_role": 3,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r2",
+          "author": 2,
+          "target": 1,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": true
+        }
+      ]
+    },
+    "probabilities": [
+      "694869/13082113",
+      "3024250/13082113",
+      "5817744/13082113",
+      "2069500/13082113",
+      "0",
+      "1475750/13082113"
+    ]
+  },
+  {
+    "view": {
+      "observer": 4,
+      "own_role": 3,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r2",
+          "author": 2,
+          "target": 1,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "independent_r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "96028044/2229317213",
+      "473983625/2229317213",
+      "1169366544/2229317213",
+      "282078875/2229317213",
+      "0",
+      "207860125/2229317213"
+    ]
+  },
+  {
+    "view": {
+      "observer": 4,
+      "own_role": 3,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r2",
+          "author": 2,
+          "target": 1,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "independent_r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "694869/13082113",
+      "3024250/13082113",
+      "5817744/13082113",
+      "2069500/13082113",
+      "0",
+      "1475750/13082113"
+    ]
+  },
+  {
+    "view": {
+      "observer": 4,
+      "own_role": 3,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 3,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r2",
+          "author": 2,
+          "target": 1,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "independent_r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "96028044/1298237375",
+      "3791869/10385899",
+      "285069456/1298237375",
+      "1882369/10385899",
+      "0",
+      "1662881/10385899"
+    ]
+  },
+  {
+    "view": {
+      "observer": 4,
+      "own_role": 3,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r2",
+          "author": 2,
+          "target": 1,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "independent_r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "77689206/1041211037",
+      "282078875/1041211037",
+      "285069456/1041211037",
+      "235296125/1041211037",
+      "0",
+      "161077375/1041211037"
+    ]
+  },
+  {
+    "view": {
+      "observer": 4,
+      "own_role": 3,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 3,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r2",
+          "author": 2,
+          "target": 1,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "independent_r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "115892/1680909",
+      "3321125/11766363",
+      "1683375/3922121",
+      "115892/1680909",
+      "0",
+      "590875/3922121"
+    ]
+  },
+  {
+    "view": {
+      "observer": 4,
+      "own_role": 3,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r2",
+          "author": 2,
+          "target": 1,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "independent_r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "77689206/1041211037",
+      "282078875/1041211037",
+      "285069456/1041211037",
+      "235296125/1041211037",
+      "0",
+      "161077375/1041211037"
+    ]
+  },
+  {
+    "view": {
+      "observer": 4,
+      "own_role": 3,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r2",
+          "author": 2,
+          "target": 1,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "independent_r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "603631/7171137",
+      "2069500/7171137",
+      "157584/796793",
+      "19750/77109",
+      "0",
+      "1243000/7171137"
+    ]
+  },
+  {
+    "view": {
+      "observer": 4,
+      "own_role": 3,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 3,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r2",
+          "author": 2,
+          "target": 1,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "independent_r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "77689206/814231375",
+      "2256631/6513851",
+      "69494544/814231375",
+      "1791131/6513851",
+      "0",
+      "1288619/6513851"
+    ]
+  },
+  {
+    "view": {
+      "observer": 4,
+      "own_role": 3,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r2",
+          "author": 2,
+          "target": 1,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "independent_r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "73218544/751573213",
+      "235296125/751573213",
+      "69494544/751573213",
+      "223891375/751573213",
+      "0",
+      "149672625/751573213"
+    ]
+  },
+  {
+    "view": {
+      "observer": 4,
+      "own_role": 3,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 3,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r2",
+          "author": 2,
+          "target": 1,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "independent_r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "720006/6577387",
+      "2366375/6577387",
+      "1231125/6577387",
+      "720006/6577387",
+      "0",
+      "1539875/6577387"
+    ]
+  },
+  {
+    "view": {
+      "observer": 4,
+      "own_role": 3,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r2",
+          "author": 2,
+          "target": 1,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": true
+        }
+      ]
+    },
+    "probabilities": [
+      "4727/34921",
+      "7273/34921",
+      "13467/34921",
+      "4727/34921",
+      "0",
+      "4727/34921"
+    ]
+  },
+  {
+    "view": {
+      "observer": 4,
+      "own_role": 3,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 0,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r2",
+          "author": 2,
+          "target": 1,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": true
+        }
+      ]
+    },
+    "probabilities": [
+      "5829/32375",
+      "24194/126651",
+      "1939248/5277125",
+      "16556/126651",
+      "0",
+      "16556/126651"
+    ]
+  },
+  {
+    "view": {
+      "observer": 4,
+      "own_role": 3,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "r2",
+          "author": 2,
+          "target": 1,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": true
+        }
+      ]
+    },
+    "probabilities": [
+      "2850381/13108637",
+      "2430500/13108637",
+      "4282506/13108637",
+      "1475750/13108637",
+      "0",
+      "2069500/13108637"
+    ]
+  },
+  {
+    "view": {
+      "observer": 4,
+      "own_role": 3,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 1,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r2",
+          "author": 2,
+          "target": 1,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": true
+        }
+      ]
+    },
+    "probabilities": [
+      "16556/100013",
+      "1069131/12501625",
+      "5817744/12501625",
+      "16556/100013",
+      "0",
+      "11806/100013"
+    ]
+  },
+  {
+    "view": {
+      "observer": 4,
+      "own_role": 3,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r2",
+          "author": 2,
+          "target": 1,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "4727/34921",
+      "7273/34921",
+      "13467/34921",
+      "4727/34921",
+      "0",
+      "4727/34921"
+    ]
+  },
+  {
+    "view": {
+      "observer": 4,
+      "own_role": 3,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 0,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r2",
+          "author": 2,
+          "target": 1,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "5829/32375",
+      "24194/126651",
+      "1939248/5277125",
+      "16556/126651",
+      "0",
+      "16556/126651"
+    ]
+  },
+  {
+    "view": {
+      "observer": 4,
+      "own_role": 3,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "r2",
+          "author": 2,
+          "target": 1,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "2850381/13108637",
+      "2430500/13108637",
+      "4282506/13108637",
+      "1475750/13108637",
+      "0",
+      "2069500/13108637"
+    ]
+  },
+  {
+    "view": {
+      "observer": 4,
+      "own_role": 3,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 1,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r2",
+          "author": 2,
+          "target": 1,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "16556/100013",
+      "1069131/12501625",
+      "5817744/12501625",
+      "16556/100013",
+      "0",
+      "11806/100013"
+    ]
+  },
+  {
+    "view": {
+      "observer": 4,
+      "own_role": 3,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r2",
+          "author": 2,
+          "target": 1,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": true
+        }
+      ]
+    },
+    "probabilities": [
+      "694869/13082113",
+      "3024250/13082113",
+      "5817744/13082113",
+      "2069500/13082113",
+      "0",
+      "1475750/13082113"
+    ]
+  },
+  {
+    "view": {
+      "observer": 4,
+      "own_role": 3,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r2",
+          "author": 2,
+          "target": 1,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": true
+        }
+      ]
+    },
+    "probabilities": [
+      "694869/13082113",
+      "3024250/13082113",
+      "5817744/13082113",
+      "2069500/13082113",
+      "0",
+      "1475750/13082113"
+    ]
+  },
+  {
+    "view": {
+      "observer": 4,
+      "own_role": 3,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 0,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r2",
+          "author": 2,
+          "target": 1,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 0,
+          "wolf_claim": false,
+          "relay": true
+        }
+      ]
+    },
+    "probabilities": [
+      "5829/32375",
+      "24194/126651",
+      "1939248/5277125",
+      "16556/126651",
+      "0",
+      "16556/126651"
+    ]
+  },
+  {
+    "view": {
+      "observer": 4,
+      "own_role": 3,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "r2",
+          "author": 2,
+          "target": 1,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": true,
+          "relay": true
+        }
+      ]
+    },
+    "probabilities": [
+      "2850381/13108637",
+      "2430500/13108637",
+      "4282506/13108637",
+      "1475750/13108637",
+      "0",
+      "2069500/13108637"
+    ]
+  },
+  {
+    "view": {
+      "observer": 4,
+      "own_role": 3,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 1,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r2",
+          "author": 2,
+          "target": 1,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 1,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": true
+        }
+      ]
+    },
+    "probabilities": [
+      "16556/100013",
+      "1069131/12501625",
+      "5817744/12501625",
+      "16556/100013",
+      "0",
+      "11806/100013"
+    ]
+  },
+  {
+    "view": {
+      "observer": 4,
+      "own_role": 3,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r2",
+          "author": 2,
+          "target": 1,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "independent_r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "34048581/1841542375",
+      "3501625/14732339",
+      "881509419/1841542375",
+      "2546875/14732339",
+      "0",
+      "1359375/14732339"
+    ]
+  },
+  {
+    "view": {
+      "observer": 4,
+      "own_role": 3,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r2",
+          "author": 2,
+          "target": 1,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "independent_r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "694869/13082113",
+      "3024250/13082113",
+      "5817744/13082113",
+      "2069500/13082113",
+      "0",
+      "1475750/13082113"
+    ]
+  },
+  {
+    "view": {
+      "observer": 4,
+      "own_role": 3,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 0,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r2",
+          "author": 2,
+          "target": 1,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "independent_r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "46556223/658752071",
+      "437703125/1976256213",
+      "293836473/658752071",
+      "318359375/1976256213",
+      "0",
+      "199015625/1976256213"
+    ]
+  },
+  {
+    "view": {
+      "observer": 4,
+      "own_role": 3,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "r2",
+          "author": 2,
+          "target": 1,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "independent_r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "1605387/16425125",
+      "2546875/11431887",
+      "6585363/16425125",
+      "1592125/11431887",
+      "0",
+      "1592125/11431887"
+    ]
+  },
+  {
+    "view": {
+      "observer": 4,
+      "own_role": 3,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 1,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r2",
+          "author": 2,
+          "target": 1,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "independent_r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "811244/12127363",
+      "1185506/12127363",
+      "40401/74401",
+      "2366375/12127363",
+      "0",
+      "1178875/12127363"
+    ]
+  },
+  {
+    "view": {
+      "observer": 4,
+      "own_role": 3,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r2",
+          "author": 2,
+          "target": 1,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "independent_r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "1605387/16425125",
+      "2546875/11431887",
+      "6585363/16425125",
+      "1592125/11431887",
+      "0",
+      "1592125/11431887"
+    ]
+  },
+  {
+    "view": {
+      "observer": 4,
+      "own_role": 3,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r2",
+          "author": 2,
+          "target": 1,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "independent_r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "2850381/13108637",
+      "2430500/13108637",
+      "4282506/13108637",
+      "1475750/13108637",
+      "0",
+      "2069500/13108637"
+    ]
+  },
+  {
+    "view": {
+      "observer": 4,
+      "own_role": 3,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 0,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r2",
+          "author": 2,
+          "target": 1,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "independent_r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "21219503/73392131",
+      "318359375/1981587537",
+      "21219503/73392131",
+      "199015625/1981587537",
+      "0",
+      "318359375/1981587537"
+    ]
+  },
+  {
+    "view": {
+      "observer": 4,
+      "own_role": 3,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "r2",
+          "author": 2,
+          "target": 1,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "independent_r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "572926581/1848173375",
+      "2314125/14785387",
+      "497699919/1848173375",
+      "1359375/14785387",
+      "0",
+      "2546875/14785387"
+    ]
+  },
+  {
+    "view": {
+      "observer": 4,
+      "own_role": 3,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 1,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r2",
+          "author": 2,
+          "target": 1,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "independent_r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "3327756/12875887",
+      "952756/12875887",
+      "5050125/12875887",
+      "1772625/12875887",
+      "0",
+      "1772625/12875887"
+    ]
+  },
+  {
+    "view": {
+      "observer": 4,
+      "own_role": 3,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": true
+        }
+      ]
+    },
+    "probabilities": [
+      "7056/92375",
+      "163/739",
+      "28944/92375",
+      "163/739",
+      "0",
+      "125/739"
+    ]
+  },
+  {
+    "view": {
+      "observer": 4,
+      "own_role": 3,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r2",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": true
+        }
+      ]
+    },
+    "probabilities": [
+      "694869/7727875",
+      "16556/61823",
+      "1418256/7727875",
+      "16556/61823",
+      "0",
+      "11806/61823"
+    ]
+  },
+  {
+    "view": {
+      "observer": 4,
+      "own_role": 3,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r2",
+          "author": 2,
+          "target": 1,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": true
+        }
+      ]
+    },
+    "probabilities": [
+      "1069131/10011637",
+      "2069500/10011637",
+      "1418256/10011637",
+      "3024250/10011637",
+      "0",
+      "2430500/10011637"
+    ]
+  },
+  {
+    "view": {
+      "observer": 4,
+      "own_role": 3,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r2",
+          "author": 3,
+          "target": 1,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": true
+        }
+      ]
+    },
+    "probabilities": [
+      "6125/100013",
+      "22750/100013",
+      "25125/100013",
+      "32763/100013",
+      "0",
+      "13250/100013"
+    ]
+  },
+  {
+    "view": {
+      "observer": 4,
+      "own_role": 3,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "7056/92375",
+      "163/739",
+      "28944/92375",
+      "163/739",
+      "0",
+      "125/739"
+    ]
+  },
+  {
+    "view": {
+      "observer": 4,
+      "own_role": 3,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r2",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "694869/7727875",
+      "16556/61823",
+      "1418256/7727875",
+      "16556/61823",
+      "0",
+      "11806/61823"
+    ]
+  },
+  {
+    "view": {
+      "observer": 4,
+      "own_role": 3,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r2",
+          "author": 2,
+          "target": 1,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "1069131/10011637",
+      "2069500/10011637",
+      "1418256/10011637",
+      "3024250/10011637",
+      "0",
+      "2430500/10011637"
+    ]
+  },
+  {
+    "view": {
+      "observer": 4,
+      "own_role": 3,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r2",
+          "author": 3,
+          "target": 1,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "6125/100013",
+      "22750/100013",
+      "25125/100013",
+      "32763/100013",
+      "0",
+      "13250/100013"
+    ]
+  },
+  {
+    "view": {
+      "observer": 4,
+      "own_role": 3,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r2",
+          "author": 2,
+          "target": 1,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "r2",
+          "author": 2,
+          "target": 1,
+          "wolf_claim": true,
+          "relay": true
+        }
+      ]
+    },
+    "probabilities": [
+      "694869/13082113",
+      "3024250/13082113",
+      "5817744/13082113",
+      "2069500/13082113",
+      "0",
+      "1475750/13082113"
+    ]
+  },
+  {
+    "view": {
+      "observer": 4,
+      "own_role": 3,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r2",
+          "author": 2,
+          "target": 1,
+          "wolf_claim": true,
+          "relay": true
+        }
+      ]
+    },
+    "probabilities": [
+      "694869/13082113",
+      "3024250/13082113",
+      "5817744/13082113",
+      "2069500/13082113",
+      "0",
+      "1475750/13082113"
+    ]
+  },
+  {
+    "view": {
+      "observer": 4,
+      "own_role": 3,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r2",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "r2",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": true,
+          "relay": true
+        }
+      ]
+    },
+    "probabilities": [
+      "694869/7727875",
+      "16556/61823",
+      "1418256/7727875",
+      "16556/61823",
+      "0",
+      "11806/61823"
+    ]
+  },
+  {
+    "view": {
+      "observer": 4,
+      "own_role": 3,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r2",
+          "author": 2,
+          "target": 1,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r2",
+          "author": 2,
+          "target": 1,
+          "wolf_claim": false,
+          "relay": true
+        }
+      ]
+    },
+    "probabilities": [
+      "1069131/10011637",
+      "2069500/10011637",
+      "1418256/10011637",
+      "3024250/10011637",
+      "0",
+      "2430500/10011637"
+    ]
+  },
+  {
+    "view": {
+      "observer": 4,
+      "own_role": 3,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r2",
+          "author": 3,
+          "target": 1,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "r2",
+          "author": 3,
+          "target": 1,
+          "wolf_claim": true,
+          "relay": true
+        }
+      ]
+    },
+    "probabilities": [
+      "6125/100013",
+      "22750/100013",
+      "25125/100013",
+      "32763/100013",
+      "0",
+      "13250/100013"
+    ]
+  },
+  {
+    "view": {
+      "observer": 4,
+      "own_role": 3,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r2",
+          "author": 2,
+          "target": 1,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "independent_r2",
+          "author": 2,
+          "target": 1,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "77689206/2117412875",
+      "3791869/16939303",
+      "1169366544/2117412875",
+      "1882369/16939303",
+      "0",
+      "1288619/16939303"
+    ]
+  },
+  {
+    "view": {
+      "observer": 4,
+      "own_role": 3,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r2",
+          "author": 2,
+          "target": 1,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "694869/13082113",
+      "3024250/13082113",
+      "5817744/13082113",
+      "2069500/13082113",
+      "0",
+      "1475750/13082113"
+    ]
+  },
+  {
+    "view": {
+      "observer": 4,
+      "own_role": 3,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r2",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "independent_r2",
+          "author": 2,
+          "target": 1,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "77689206/1041211037",
+      "282078875/1041211037",
+      "285069456/1041211037",
+      "235296125/1041211037",
+      "0",
+      "161077375/1041211037"
+    ]
+  },
+  {
+    "view": {
+      "observer": 4,
+      "own_role": 3,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r2",
+          "author": 2,
+          "target": 1,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r2",
+          "author": 2,
+          "target": 1,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "96028044/1153115375",
+      "2256631/9224923",
+      "285069456/1153115375",
+      "2256631/9224923",
+      "0",
+      "1662881/9224923"
+    ]
+  },
+  {
+    "view": {
+      "observer": 4,
+      "own_role": 3,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r2",
+          "author": 3,
+          "target": 1,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "independent_r2",
+          "author": 2,
+          "target": 1,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "578494/13456375",
+      "26569/107651",
+      "40401/107651",
+      "3327756/13456375",
+      "0",
+      "9431/107651"
+    ]
+  },
+  {
+    "view": {
+      "observer": 4,
+      "own_role": 3,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r2",
+          "author": 2,
+          "target": 1,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "independent_r2",
+          "author": 2,
+          "target": 1,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "96028044/1153115375",
+      "2256631/9224923",
+      "285069456/1153115375",
+      "2256631/9224923",
+      "0",
+      "1662881/9224923"
+    ]
+  },
+  {
+    "view": {
+      "observer": 4,
+      "own_role": 3,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r2",
+          "author": 2,
+          "target": 1,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "1069131/10011637",
+      "2069500/10011637",
+      "1418256/10011637",
+      "3024250/10011637",
+      "0",
+      "2430500/10011637"
+    ]
+  },
+  {
+    "view": {
+      "observer": 4,
+      "own_role": 3,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r2",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "independent_r2",
+          "author": 2,
+          "target": 1,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "96028044/890757713",
+      "235296125/890757713",
+      "69494544/890757713",
+      "282078875/890757713",
+      "0",
+      "207860125/890757713"
+    ]
+  },
+  {
+    "view": {
+      "observer": 4,
+      "own_role": 3,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r2",
+          "author": 2,
+          "target": 1,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r2",
+          "author": 2,
+          "target": 1,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "171254706/1349793875",
+      "1882369/10798351",
+      "69494544/1349793875",
+      "3791869/10798351",
+      "0",
+      "3198119/10798351"
+    ]
+  },
+  {
+    "view": {
+      "observer": 4,
+      "own_role": 3,
+      "inspection": null,
+      "peer": null,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r2",
+          "author": 3,
+          "target": 1,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "independent_r2",
+          "author": 2,
+          "target": 1,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "952756/11546875",
+      "18931/92375",
+      "9849/92375",
+      "4862994/11546875",
+      "0",
+      "17069/92375"
+    ]
+  },
+  {
+    "view": {
+      "observer": 5,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 3,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "22099/244500",
+      "527/1956",
+      "30217/81500",
+      "0",
+      "527/1956",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 5,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 3,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "49/500",
+      "451/1500",
+      "451/1500",
+      "0",
+      "451/1500",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 5,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 3,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 3,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "22099/175948",
+      "65875/175948",
+      "22099/175948",
+      "0",
+      "65875/175948",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 5,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 3,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "14651/130500",
+      "125/348",
+      "22099/130500",
+      "0",
+      "125/348",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 5,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 3,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 3,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "49/500",
+      "451/1500",
+      "451/1500",
+      "0",
+      "451/1500",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 5,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 3,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": true
+        }
+      ]
+    },
+    "probabilities": [
+      "22099/244500",
+      "527/1956",
+      "30217/81500",
+      "0",
+      "527/1956",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 5,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 3,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": true
+        }
+      ]
+    },
+    "probabilities": [
+      "22099/244500",
+      "527/1956",
+      "30217/81500",
+      "0",
+      "527/1956",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 5,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 3,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 3,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 3,
+          "wolf_claim": false,
+          "relay": true
+        }
+      ]
+    },
+    "probabilities": [
+      "22099/175948",
+      "65875/175948",
+      "22099/175948",
+      "0",
+      "65875/175948",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 5,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 3,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": true,
+          "relay": true
+        }
+      ]
+    },
+    "probabilities": [
+      "14651/130500",
+      "125/348",
+      "22099/130500",
+      "0",
+      "125/348",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 5,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 3,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 3,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r0",
+          "author": 3,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": true
+        }
+      ]
+    },
+    "probabilities": [
+      "49/500",
+      "451/1500",
+      "451/1500",
+      "0",
+      "451/1500",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 5,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 3,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "3510899/42019500",
+      "81151/336156",
+      "6073617/14006500",
+      "0",
+      "81151/336156",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 5,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 3,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "22099/244500",
+      "527/1956",
+      "30217/81500",
+      "0",
+      "527/1956",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 5,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 3,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 3,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "501557/4034364",
+      "125/348",
+      "211519/1344788",
+      "0",
+      "125/348",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 5,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 3,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "2013851/19105500",
+      "50599/152844",
+      "1480633/6368500",
+      "0",
+      "50599/152844",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 5,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 3,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 3,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "22099/244500",
+      "527/1956",
+      "30217/81500",
+      "0",
+      "527/1956",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 5,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 3,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "2013851/19105500",
+      "50599/152844",
+      "1480633/6368500",
+      "0",
+      "50599/152844",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 5,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 3,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "14651/130500",
+      "125/348",
+      "22099/130500",
+      "0",
+      "125/348",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 5,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 3,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 3,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "2013851/15746452",
+      "6324875/15746452",
+      "1082851/15746452",
+      "0",
+      "6324875/15746452",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 5,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 3,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "549633/4506500",
+      "43151/108156",
+      "1082851/13519500",
+      "0",
+      "43151/108156",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 5,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 3,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 3,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "14651/130500",
+      "125/348",
+      "22099/130500",
+      "0",
+      "125/348",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 5,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 3,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "451/1956",
+      "451/1956",
+      "201/652",
+      "0",
+      "451/1956",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 5,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 3,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 0,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "90651/313052",
+      "65875/313052",
+      "90651/313052",
+      "0",
+      "65875/313052",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 5,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 3,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "30217/81500",
+      "125/652",
+      "20033/81500",
+      "0",
+      "125/652",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 5,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 3,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 1,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "527/1956",
+      "22099/244500",
+      "30217/81500",
+      "0",
+      "527/1956",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 5,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 3,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": true
+        }
+      ]
+    },
+    "probabilities": [
+      "22099/244500",
+      "527/1956",
+      "30217/81500",
+      "0",
+      "527/1956",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 5,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 3,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": true
+        }
+      ]
+    },
+    "probabilities": [
+      "22099/244500",
+      "527/1956",
+      "30217/81500",
+      "0",
+      "527/1956",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 5,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 3,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 0,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 0,
+          "wolf_claim": false,
+          "relay": true
+        }
+      ]
+    },
+    "probabilities": [
+      "90651/313052",
+      "65875/313052",
+      "90651/313052",
+      "0",
+      "65875/313052",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 5,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 3,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": true,
+          "relay": true
+        }
+      ]
+    },
+    "probabilities": [
+      "30217/81500",
+      "125/652",
+      "20033/81500",
+      "0",
+      "125/652",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 5,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 3,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 1,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 1,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": true
+        }
+      ]
+    },
+    "probabilities": [
+      "527/1956",
+      "22099/244500",
+      "30217/81500",
+      "0",
+      "527/1956",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 5,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 3,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "1082851/35772452",
+      "10143875/35772452",
+      "14401851/35772452",
+      "0",
+      "10143875/35772452",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 5,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 3,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "22099/244500",
+      "527/1956",
+      "30217/81500",
+      "0",
+      "527/1956",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 5,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 3,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 0,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "4441899/39131500",
+      "81151/313052",
+      "14401851/39131500",
+      "0",
+      "81151/313052",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 5,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 3,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "independent_r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "4441899/25352548",
+      "6324875/25352548",
+      "8260899/25352548",
+      "0",
+      "6324875/25352548",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 5,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 3,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 1,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "25823/232948",
+      "25823/232948",
+      "105927/232948",
+      "0",
+      "75375/232948",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 5,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 3,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "4441899/25352548",
+      "6324875/25352548",
+      "8260899/25352548",
+      "0",
+      "6324875/25352548",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 5,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 3,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "30217/81500",
+      "125/652",
+      "20033/81500",
+      "0",
+      "125/652",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 5,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 3,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 0,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "18220851/39131500",
+      "50599/313052",
+      "8260899/39131500",
+      "0",
+      "50599/313052",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 5,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 3,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": true,
+          "relay": false
+        },
+        {
+          "root": "independent_r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "18220851/35772452",
+      "5393875/35772452",
+      "6763851/35772452",
+      "0",
+      "5393875/35772452",
+      "0"
+    ]
+  },
+  {
+    "view": {
+      "observer": 5,
+      "own_role": 2,
+      "inspection": null,
+      "peer": 3,
+      "audit": {},
+      "reports": [
+        {
+          "root": "r0",
+          "author": 2,
+          "target": 2,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "r1",
+          "author": 1,
+          "target": 5,
+          "wolf_claim": false,
+          "relay": false
+        },
+        {
+          "root": "independent_r1",
+          "author": 0,
+          "target": 5,
+          "wolf_claim": true,
+          "relay": false
+        }
+      ]
+    },
+    "probabilities": [
+      "105927/256052",
+      "18375/256052",
+      "75375/256052",
+      "0",
+      "56375/256052",
+      "0"
+    ]
+  }
+]

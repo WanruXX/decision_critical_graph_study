@@ -1,0 +1,32 @@
+{
+  "families": [
+    "uniform",
+    "repeated",
+    "independent"
+  ],
+  "training_seeds": [
+    42,
+    73,
+    101
+  ],
+  "epochs": 10,
+  "training_data_sha256": "9aef95c246121bf7e71338fdc68db3ae128ace01eec374c11b20fa9589a3d2fd",
+  "artifact_manifest_sha256": "648f2661630064f00a71ce04c627ee9b1779dd3cdf78c9d1d8188fcc813981fa",
+  "checkpoint_rule": "validation near regret, overall regret, CE; CE drift <= .01; MAE <= .03; epoch zero eligible",
+  "loss": "soft-target cross entropy",
+  "learning_rate": 0.0003,
+  "weight_decay": 0.0001,
+  "batch_size": 64,
+  "gradient_clip": 5,
+  "source_sha256": {
+    "artifacts.py": "2bc400e7f1aa7132fcc7ad58eb0680e4272ec83265579dce8643fb713b54c6b2",
+    "contracts.py": "7ecc1e0850f6a7b4d9c04088ee2f4a767c317299704a7238e0f84eb56208d2e9",
+    "evaluation.py": "f031b50bc9897ca97a43024b59a23d1e81943c3c6fdbe93cdae4b1991be0d6e2",
+    "example.py": "a23eb5d74e26b404425eb6e98e1620eddce5919dfae01db2bb8463e2bf4681dd",
+    "experiment.py": "45ed425d4d76a1a31302c88c1946632c6d666727aa4d90cd81f73f511edd8d09",
+    "learning.py": "e146a48d29cd522c7f8331ba3abae771709206674dda5920e7f472260caa8ec5",
+    "models.py": "6d434f016597dbbb39fb7507e041d10bc5d2755d255c39c776b438f8c1e405dc",
+    "__init__.py": "6cf4ce974e10fb20b9dc70a8d9f7ef2984c5ff58290e333c1ae1b1651db4d7fb",
+    "__main__.py": "c1b25a81e38913c2726b5da381ee7015f04d146d954e2ab5f492191d03cefd7b"
+  }
+}

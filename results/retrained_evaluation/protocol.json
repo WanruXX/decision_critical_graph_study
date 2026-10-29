@@ -1,0 +1,104 @@
+{
+  "mode": "fresh evaluation",
+  "families": [
+    "baseline",
+    "uniform",
+    "repeated",
+    "independent"
+  ],
+  "training_seeds": [
+    42,
+    73,
+    101
+  ],
+  "data_seeds": [
+    46101
+  ],
+  "games_per_seed": 1,
+  "bootstrap_samples": 100,
+  "bootstrap_seed": 41101,
+  "thresholds": {
+    "baseline_42": [
+      0.017888307571411133,
+      0.02200070023536682
+    ],
+    "baseline_73": [
+      0.026831388473510742,
+      0.026831388473510742
+    ],
+    "baseline_101": [
+      0.025950580835342407,
+      0.025950580835342407
+    ],
+    "uniform_42": [
+      0.02411392331123352,
+      0.02411392331123352
+    ],
+    "uniform_73": [
+      0.024162769317626953,
+      0.024162769317626953
+    ],
+    "uniform_101": [
+      0.025467872619628906,
+      0.025467872619628906
+    ],
+    "repeated_42": [
+      0.02635149657726288,
+      0.02635149657726288
+    ],
+    "repeated_73": [
+      0.0241968035697937,
+      0.0241968035697937
+    ],
+    "repeated_101": [
+      0.021570369601249695,
+      0.021570369601249695
+    ],
+    "independent_42": [
+      0.02565622329711914,
+      0.02565622329711914
+    ],
+    "independent_73": [
+      0.01888805627822876,
+      0.02355511486530304
+    ],
+    "independent_101": [
+      0.03341394662857056,
+      0.03341394662857056
+    ]
+  },
+  "threshold_source": "general validation, actual-action F1; highest threshold on ties",
+  "primary": "independent minus baseline, all-case actual-action regret MAE, equal-instance weighting",
+  "bounds": "oracle exact edited-optimal action set, not bounds on suboptimal learned actions",
+  "checkpoint_sha256": {
+    "baseline_42": "e7709e76d4c40f43c57252f5ca7536b0ac104d2337cdf24a070d1a9c67b18540",
+    "baseline_73": "867f4550b009ebe2a8428331ab6942e02e6b2de6a1c04d04de45ff5613971f53",
+    "baseline_101": "91e12b045688b946ea3bb460847f83919e60e3b6d8bff5a1756cb2cd5c9142e1",
+    "uniform_42": "1df6bfedb2fc07bf62b85be33fddecce538a8781b397dd0e3d6afd2e9e5d7739",
+    "uniform_73": "dd7ebc7d6f14dfd52fb7090dda2acb813fd46a8bee234da9fecde1f5b7e79ab9",
+    "uniform_101": "00aeaabf1ca86882eae125e550c3e648bc253d97d0d1c9457c80a78ed79381ca",
+    "repeated_42": "4eb368b37490b2f9da2d17f9a25e59a7a5ff13f5292db5d35b296faabcd67a5c",
+    "repeated_73": "90ac0af5ef9c1ddd6f4b28ba886ab5ef5d19eaa661f9290b371dd0cf14e29b25",
+    "repeated_101": "927ac7b29e1836af362e16194cd028f58b8c1e294c87fe58eb8619f89f1020cf",
+    "independent_42": "ccf55dc063e58e8df85275c44b18639856d56b558501606df586a4ebd51e438d",
+    "independent_73": "695d1cb43d1befe727462f4c5c1867482076065258f3abd10394d31f84fabcdb",
+    "independent_101": "6d6e32386edf0add970d1de0ed166b86b259f7a2141ddabcc91cfae225f4544d"
+  },
+  "artifact_manifest_sha256": "648f2661630064f00a71ce04c627ee9b1779dd3cdf78c9d1d8188fcc813981fa",
+  "source_sha256": {
+    "artifacts.py": "2bc400e7f1aa7132fcc7ad58eb0680e4272ec83265579dce8643fb713b54c6b2",
+    "contracts.py": "7ecc1e0850f6a7b4d9c04088ee2f4a767c317299704a7238e0f84eb56208d2e9",
+    "evaluation.py": "f031b50bc9897ca97a43024b59a23d1e81943c3c6fdbe93cdae4b1991be0d6e2",
+    "example.py": "a23eb5d74e26b404425eb6e98e1620eddce5919dfae01db2bb8463e2bf4681dd",
+    "experiment.py": "45ed425d4d76a1a31302c88c1946632c6d666727aa4d90cd81f73f511edd8d09",
+    "learning.py": "e146a48d29cd522c7f8331ba3abae771709206674dda5920e7f472260caa8ec5",
+    "models.py": "6d434f016597dbbb39fb7507e041d10bc5d2755d255c39c776b438f8c1e405dc",
+    "__init__.py": "6cf4ce974e10fb20b9dc70a8d9f7ef2984c5ff58290e333c1ae1b1651db4d7fb",
+    "__main__.py": "c1b25a81e38913c2726b5da381ee7015f04d146d954e2ab5f492191d03cefd7b"
+  },
+  "versions": {
+    "python": "3.13.2",
+    "numpy": "2.5.4",
+    "torch": "2.14.1+cpu"
+  }
+}

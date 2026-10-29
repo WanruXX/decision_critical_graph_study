@@ -1,0 +1,156 @@
+[
+  {
+    "game_id": "comparison_46101_00000",
+    "roles": [
+      1,
+      4,
+      0,
+      2,
+      3,
+      2
+    ],
+    "true_wolf": 2,
+    "true_authors": {
+      "r0": 2,
+      "r1": 0,
+      "r2": 2
+    },
+    "views": [
+      {
+        "observer": 0,
+        "own_role": 1,
+        "inspection": [
+          5,
+          false
+        ],
+        "peer": null,
+        "audit": {},
+        "reports": [
+          {
+            "root": "r0",
+            "author": 2,
+            "target": 2,
+            "wolf_claim": false,
+            "relay": false
+          },
+          {
+            "root": "r1",
+            "author": 0,
+            "target": 5,
+            "wolf_claim": false,
+            "relay": false
+          }
+        ]
+      },
+      {
+        "observer": 1,
+        "own_role": 4,
+        "inspection": null,
+        "peer": null,
+        "audit": {
+          "r0": 2
+        },
+        "reports": [
+          {
+            "root": "r0",
+            "author": 2,
+            "target": 2,
+            "wolf_claim": false,
+            "relay": false
+          },
+          {
+            "root": "r1",
+            "author": 0,
+            "target": 5,
+            "wolf_claim": false,
+            "relay": false
+          }
+        ]
+      },
+      {
+        "observer": 3,
+        "own_role": 2,
+        "inspection": null,
+        "peer": 5,
+        "audit": {},
+        "reports": [
+          {
+            "root": "r0",
+            "author": 2,
+            "target": 2,
+            "wolf_claim": false,
+            "relay": false
+          },
+          {
+            "root": "r1",
+            "author": 0,
+            "target": 5,
+            "wolf_claim": false,
+            "relay": false
+          }
+        ]
+      },
+      {
+        "observer": 4,
+        "own_role": 3,
+        "inspection": null,
+        "peer": null,
+        "audit": {},
+        "reports": [
+          {
+            "root": "r0",
+            "author": 2,
+            "target": 2,
+            "wolf_claim": false,
+            "relay": false
+          },
+          {
+            "root": "r1",
+            "author": 0,
+            "target": 5,
+            "wolf_claim": false,
+            "relay": false
+          },
+          {
+            "root": "r2",
+            "author": 2,
+            "target": 1,
+            "wolf_claim": true,
+            "relay": false
+          },
+          {
+            "root": "r0",
+            "author": 2,
+            "target": 2,
+            "wolf_claim": false,
+            "relay": true
+          }
+        ]
+      },
+      {
+        "observer": 5,
+        "own_role": 2,
+        "inspection": null,
+        "peer": 3,
+        "audit": {},
+        "reports": [
+          {
+            "root": "r0",
+            "author": 2,
+            "target": 2,
+            "wolf_claim": false,
+            "relay": false
+          },
+          {
+            "root": "r1",
+            "author": 0,
+            "target": 5,
+            "wolf_claim": false,
+            "relay": false
+          }
+        ]
+      }
+    ],
+    "data_seed": 46101
+  }
+]
