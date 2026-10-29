@@ -1,0 +1,56 @@
+{
+  "schema": 1,
+  "description": "Frozen learned models, paired evidence evaluation, and matched evidence-training inputs.",
+  "families": [
+    "baseline",
+    "uniform",
+    "repeated",
+    "independent"
+  ],
+  "training_seeds": [
+    42,
+    73,
+    101
+  ],
+  "input_protocol": "normalize_evidence_v1",
+  "checkpoint_format": "PyTorch state dictionaries; load with weights_only=True",
+  "baseline_training": {
+    "train_instances": 240,
+    "validation_instances": 60,
+    "maximum_epochs": 45,
+    "patience": 8,
+    "learning_rate": 0.003,
+    "checkpoint_rule": "validation cross entropy including epoch zero"
+  },
+  "matched_training": {
+    "epochs": 10,
+    "optimizer_steps": 940,
+    "row_presentations": 60000,
+    "near_presentations_enriched": 12000,
+    "repeated_distinct_inputs": 61,
+    "repeated_instances": 47,
+    "independent_distinct_inputs": 372,
+    "independent_instances": 372,
+    "checkpoint_rule": "validation near regret, overall regret, cross entropy; CE drift <= .01; MAE <= .03; epoch zero eligible"
+  },
+  "sha256": {
+    "exclusions.json": "a5fdd379eab9084b7113aabfd2c55c0f15682021061315fc8ed8837b23901051",
+    "models/baseline_101.pt": "91e12b045688b946ea3bb460847f83919e60e3b6d8bff5a1756cb2cd5c9142e1",
+    "models/baseline_42.pt": "e7709e76d4c40f43c57252f5ca7536b0ac104d2337cdf24a070d1a9c67b18540",
+    "models/baseline_73.pt": "867f4550b009ebe2a8428331ab6942e02e6b2de6a1c04d04de45ff5613971f53",
+    "models/independent_101.pt": "be81fe3aab71e33106fd799931854b62bf18096234b948eed9648bbbfe94cd21",
+    "models/independent_42.pt": "6f178071ecfa28d64bb1fe8d4f4b12f2d1a0437392c48314d56283af857bc2d7",
+    "models/independent_73.pt": "e3c28b7c8623afb7d28b9840825aa5ebee4512325a1ebc1d8e31e76373aba895",
+    "models/repeated_101.pt": "e38dbad44905d3be4edbcc5a99e4161926276e24fa3914e3266ca86de5b59594",
+    "models/repeated_42.pt": "17fc8000be28fea0013dd2f00c49bdaa4e57b4779c4dc9cde0f6b725bbcbe3ff",
+    "models/repeated_73.pt": "4b99168a15d388b723a2ac0911ab6e13a68c1e6097e3290e16c46bbb93294eba",
+    "models/uniform_101.pt": "5ddda64ea93882e66e0dbca8c43f313ac653b961fa676c8a0a96c55170e295eb",
+    "models/uniform_42.pt": "4e75d6cc78e423b3927fcf619687ab243bcc49bfca0752ee6a90d0dd816bd28a",
+    "models/uniform_73.pt": "117ce1819f4edeb14f96ffeb01d2b32be1e0d08691b002c0c58faf66a673b8d5",
+    "reference.json": "fa8af55470f30f51e4449e821b5908a8e63e4f8ee8c6f7099384f9d1faf44954",
+    "replay.json": "a02115699c67b8652e3a5df6b26453d33b139b86f2a81fae65c4348ed268f512",
+    "test_instances.json": "7c6d8f74c252fb62aee8a6920d0ef52e7b3812771bbddca58a292d36da27f973",
+    "thresholds.json": "85c34d35034dcaffc08e47f640572c2541c986a34bf6964ad43559a1f9381c95",
+    "training.json": "9aef95c246121bf7e71338fdc68db3ae128ace01eec374c11b20fa9589a3d2fd"
+  }
+}

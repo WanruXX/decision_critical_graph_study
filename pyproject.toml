@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "decision-criticality-study"
+version = "0.1.0"
+description = "Which evidence errors change downstream decisions?"
+requires-python = ">=3.10"
+dependencies = ["numpy>=1.26,<3", "scikit-learn>=1.4,<2", "torch>=2.2,<3"]
+readme = "README.md"
+
+[project.optional-dependencies]
+notebook = ["jupyterlab>=4,<5", "ipykernel>=6,<8", "nbclient>=0.10,<1", "matplotlib>=3.8,<4"]
+
+[project.scripts]
+decision-criticality = "decision_criticality.experiment:main"
+
+[tool.setuptools.packages.find]
+include = ["decision_criticality*"]
+
+[tool.setuptools.package-data]
+decision_criticality = ["assets/*.json", "assets/models/*.pt"]
